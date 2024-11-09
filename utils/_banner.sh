@@ -47,6 +47,14 @@ printf "${NC}";
 
 
   printf "${GREEN}";
+  printf "⚠️ Aviso de Legalidade e Propriedade do Sistema
+
+Este sistema é de propriedade exclusiva da Zion Tecnologia,
+protegido por direitos autorais e licenças de uso. A reprodução,
+distribuição ou modificação não autorizada são proibidas por lei.
+Ao prosseguir, você concorda com os termos de uso e com a utilização legal do sistema.
+
+Agradecemos por respeitar a nossa tecnologia \n";
   printf "SISTEMA DE MULTIATENDIMENTO ZION CRM \n";
   printf "SUPORTE: +5565-99254-2909  \n";
   printf "${NC}";
